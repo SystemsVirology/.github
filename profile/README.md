@@ -1,4 +1,4 @@
-<img src="https://github.com/CombatDengue/.github/raw/main/profile/Back2.jpg" alt="Logo" width="1000" height="250">
+<img src="https://github.com/CombatDengue/.github/raw/main/profile/Back2.png" alt="Logo" width="1000" height="250">
 
 
 # The Systems Virology Lab
