@@ -1,4 +1,4 @@
-![Logo](https://raw.githubusercontent.com/CombatDengue/.github/main/profile/Back2.png)
+<img src="https://github.com/SystemsVirology/.github/raw/main/profile/Back2.png" alt="Logo" width="1000" height="250">
 
 ## The Systems Virology Lab
 
